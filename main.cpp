@@ -38,8 +38,8 @@ int main() {
     int choice;
     do {
         cout << "\nMenu:\n";
-        cout << "1. Add series: 1 + 1/(1+2) + 1/(2+3) + ...\n";
-        cout << "2. Sum of squares series: (n*n) + ((n-1)*(n-1)) + ... + 1\n";
+        cout << "1. Add series: \n";
+        cout << "2. Sum of squares series: \n";
         cout << "3. Quit\n";
         cout << "Enter your choice: ";
         cin >> choice;
